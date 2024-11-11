@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/little-lemon-restaurant/static/css/main.e92e524a.css",
-    "main.js": "/little-lemon-restaurant/static/js/main.c4a43cf7.js",
-    "static/js/787.a2f6b77c.chunk.js": "/little-lemon-restaurant/static/js/787.a2f6b77c.chunk.js",
+    "main.css": "/little-lemon-restaurant/static/css/main.4c743d84.css",
+    "main.js": "/little-lemon-restaurant/static/js/main.a7c103a2.js",
+    "static/js/787.0e637884.chunk.js": "/little-lemon-restaurant/static/js/787.0e637884.chunk.js",
     "static/media/chefs-mario-and-adrian_1.jpg": "/little-lemon-restaurant/static/media/chefs-mario-and-adrian_1.baf0d2e31dc6977f913f.jpg",
     "static/media/chefs-mario-and-adrian_2.jpg": "/little-lemon-restaurant/static/media/chefs-mario-and-adrian_2.5d8cccd399ab68c5c40b.jpg",
     "static/media/greek-salad.jpg": "/little-lemon-restaurant/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
@@ -13,12 +13,12 @@
     "static/media/logo.png": "/little-lemon-restaurant/static/media/logo.e68246686f716ff6e5d8.png",
     "index.html": "/little-lemon-restaurant/index.html",
     "static/media/arrowDown.svg": "/little-lemon-restaurant/static/media/arrowDown.8a70b7250e71a1b25016.svg",
-    "main.e92e524a.css.map": "/little-lemon-restaurant/static/css/main.e92e524a.css.map",
-    "main.c4a43cf7.js.map": "/little-lemon-restaurant/static/js/main.c4a43cf7.js.map",
-    "787.a2f6b77c.chunk.js.map": "/little-lemon-restaurant/static/js/787.a2f6b77c.chunk.js.map"
+    "main.4c743d84.css.map": "/little-lemon-restaurant/static/css/main.4c743d84.css.map",
+    "main.a7c103a2.js.map": "/little-lemon-restaurant/static/js/main.a7c103a2.js.map",
+    "787.0e637884.chunk.js.map": "/little-lemon-restaurant/static/js/787.0e637884.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e92e524a.css",
-    "static/js/main.c4a43cf7.js"
+    "static/css/main.4c743d84.css",
+    "static/js/main.a7c103a2.js"
   ]
 }
