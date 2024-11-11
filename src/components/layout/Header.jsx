@@ -18,6 +18,7 @@ const Header = ({ navLinks }) => {
         <button
           className="nav-bar-hamburger"
           type="button"
+          aria-label="On Click"
           onClick={() => setIsNavExpanded(!isNavExpanded)}
         >
           {isNavExpanded ? (
@@ -33,6 +34,7 @@ const Header = ({ navLinks }) => {
             <li
               key={navLink.name}
               onClick={() => setIsNavExpanded(false)}
+              aria-label="On Click"
               className="hover-underline-animation"
             >
               {navLink.hashLink ? (

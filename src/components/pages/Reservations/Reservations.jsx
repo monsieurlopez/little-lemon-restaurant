@@ -24,7 +24,7 @@ const Reservations = () => {
 
   const submitData = (formData) => {
     const response = submitAPI(formData);
-    if (response) navigate("/confirmedReservation");
+    if (response) navigate("/confirmedReservation", { state: formData });
   };
 
   return (

@@ -91,7 +91,7 @@ describe("Reservation form", () => {
     expect(submitButton).toBeDisabled();
   });
 
-  test(`should display an error message and disable sumbit button when number of  
+  test(`should display an error message and disable sumbit button when number of
     guests field's value is empty`, () => {
     render(
       <ReservationForm
