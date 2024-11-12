@@ -31,11 +31,17 @@ const meals = [
 ];
 
 const WeekSpecials = () => {
+
+  const handleClick = () => {
+    const imageUrl = require("../../layout/assets/menu.webp");
+    window.open(imageUrl, "_blank", "noopener,noreferrer");
+  };
+
   return (
     <section className="container grid week-specials" id="menu">
       <div className="week-specials-header">
         <h2>This week specials!</h2>
-        <HashLink className="button-primary" to="/#menu">
+        <HashLink className="button-primary" to="/#menu" onClick={handleClick}>
           Online Menu
         </HashLink>
       </div>
