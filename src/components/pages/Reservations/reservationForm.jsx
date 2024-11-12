@@ -52,7 +52,7 @@ const ReservationForm = ({ availableTimes, dispatchOnDateChange, submitData }) =
 
         const templateParams = {
           from_name: "Little Lemon",
-          from_email: values.mail,
+          user_email: values.mail,
           to_name: values.name,
           message: `You have a reservation on ${values.date} at ${values.time} for ${values.numberOfGuests} guests.`,
         };
